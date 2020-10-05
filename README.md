@@ -109,6 +109,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### DSL
 
 - [RubyJMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
+- [jmeter-java-dsl](https://github.com/abstracta/jmeter-java-dsl) - A Java API to easily define and run JMeter test plans.
 
 ### Packages
 
